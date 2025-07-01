@@ -1,4 +1,3 @@
-# import_and_clean.R
 # Script pentru încărcarea și combinarea datelor geodemografice
 
 library(readr)
